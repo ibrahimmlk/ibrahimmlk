@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Generative AI & Automation | Mobile & Frontend Development</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ibrahim-malik" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-ibrahim-malik-5a7ab1293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:m.ibrahimalik@outlook.com">
