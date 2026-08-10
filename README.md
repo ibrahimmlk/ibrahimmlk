@@ -77,14 +77,14 @@
 
 ### 🔥 Featured Projects
 
-#### 📚 Byung-Chul Han RAG Chatbot — *August 2026*
+#### 📚 Byung-Chul Han RAG Chatbot — *July 2026*
 A citation-grounded philosophy chatbot that answers questions based on Byung-Chul Han's critique of digital modernity, retrieving passages and surfacing exact book/page citations.
 - **Stack:** Python, FastAPI, React, Vite, LangChain, Qdrant Cloud, OpenAI API, PyMuPDF, Docker
 - Developed a robust document ingestion pipeline using PyMuPDF and token-aware splitting to process PDFs, generate OpenAI embeddings, and persist vector data in Qdrant Cloud
 - Engineered a LangChain LCEL chain with a history-aware retriever to reformulate follow-up questions and stream generated answers back to the frontend over Server-Sent Events (SSE)
 - Built a responsive chat UI using React and Vite, supported by a FastAPI backend, fully containerized using Docker Compose for seamless local deployment
 
-#### 🎬 [YouTube to LinkedIn Post Generator](https://github.com/ibrahimmlk) — *March 2026*
+#### 🎬 YouTube to LinkedIn Post Generator](https://github.com/ibrahimmlk — *March 2026*
 An AI-powered content repurposing app that takes a YouTube URL, extracts the transcript, and generates a polished, engagement-focused LinkedIn post.
 - **Stack:** Python, LangChain, OpenAI SDK, youtube-transcript-api, yt-dlp, Streamlit
 - Designed and tuned LangChain prompt chains for tone control, source attribution, and concise formatting
